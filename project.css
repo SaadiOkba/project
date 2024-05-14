@@ -1,0 +1,156 @@
+.body{
+
+    background-color: #ddd9d9;
+    
+    }
+    
+    
+    
+    .img{
+        width: 100%;
+        height: 100%;
+    }.h1{
+        font-family:'Times New Roman', Times, serif ;
+        text-align: center;
+        left:22% ;right:20% ;top:7% ;
+        color:rgb(0, 0, 0) ;
+        position: absolute;
+    
+    
+    }
+    .table{
+        background:  #4c5769;
+        background-image: linear-gradient(#3b3d49,#4c4f5d,#9194a4);
+        height: 380px;
+        width: 350px; 
+        position:absolute;top: 200px;right: 300px; ;left: 600px;
+        border-radius: 0.9em;
+        border-color: #4c5769;
+        box-shadow: 4px 4px 3px 3px ;
+       
+        }
+        .login{
+            color: #e7b696;
+            font-family: 'Times New Roman', Times, serif;
+            position: absolute;top: 10%;right:300px;left: 140px;
+            font-size: xx-large;
+            text-shadow: 5px 5px 10px black ;
+        }
+        
+        
+        .email{
+            background-color: #f2dfd9;
+            border-radius: 0.7em;
+            height: 25px;
+            width: 95%;
+            position: absolute;top:39%;right:600px;left: 6px;
+            outline: none;
+            box-shadow: 4px 4px 3px 3px;
+            border: none;
+        }
+        .password{background-color: #f2dfd9;
+            border-radius: 0.7em;
+            height: 25px;
+            width: 95%;
+            position: absolute;top: 61%;right:100px;left: 6px;
+            outline: none;
+            border: none;
+            box-shadow: 4px 4px 3px 3px;
+        }
+        .button{
+            background-color: #f2dfd9;
+            border-radius: 0.7em;
+            height: 25px;
+            width: 37%;
+            position: absolute;top: 80%;right:300px;left: 110px;
+            box-shadow: 4px 4px 3px 3px;
+        }
+        .forget{
+            background-color: transparent;
+            border-radius: 0.7em;
+            height: 25px;
+            width: 39%;
+            position: absolute;top: 90%;right:300px;left: 110px;  border: none;
+            outline: none;
+            font-size: larger;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        .th{
+            color: #4c5769;border-radius: 0.9em;
+            outline: none;border: none;
+        }
+        .table2{
+            background:#4c5769 ;
+            
+            background-image: linear-gradient(#3b3d49,#4c4f5d,#9194a4);
+            height: 380px;
+            width: 350px; 
+            position:absolute;top: 200px;right: 300px; ;left: 600px;
+            border-radius: 0.9em;
+            border-color: #4c5769;
+            box-shadow: 4px 4px 3px 3px ;
+            
+            }
+            .singin{
+                color: #e7b696;
+                font-family: 'Times New Roman', Times, serif;
+                position: absolute;top: 8%;right:300px;left: 130px;
+                font-size: xx-large;
+                text-shadow: 5px 5px 10px black ;
+            }
+            
+            
+            .email2{
+                background-color: #f2dfd9;
+                border-radius: 0.7em;
+                height: 25px;
+                width: 95%;
+                position: absolute;top:50%;right:100px;left: 6px;
+                outline: none;
+                box-shadow: 4px 4px 3px 3px;
+                border: none;
+            }
+            .password2{background-color: #f2dfd9;
+                border-radius: 0.7em;
+                height: 25px;
+                width: 95%;
+                position: absolute;top: 70%;right:100px;left: 6px;
+                outline: none;
+                border: none;
+                box-shadow: 4px 4px 3px 3px;
+            }
+            .button2{
+                background-color: #f2dfd9;
+                border-radius: 0.7em;
+                height: 25px;
+                width: 30%;
+                position: absolute;top: 83%;right:300px;left: 120px;
+                box-shadow: 4px 4px 3px 3px;
+            }
+            .fullname{
+                background-color: #f2dfd9;
+                border-radius: 0.7em;
+                height: 25px;
+                width: 95%;
+                position: absolute;top:30%;right:100px;left: 6px;
+                outline: none;
+                box-shadow: 4px 4px 3px 3px;
+                border: none;
+    
+            }
+            
+            .th2{
+                color: #4c5769;border-radius: 0.9em;
+                outline: none;border: none;
+            }.go{  
+                background-color: transparent;
+                border-radius: 0.7em;
+                height: 30px;
+                width: 30%;
+                position: absolute;top: 89%;right:300px;left: 230px;
+                border: none;
+                outline: none;
+                font-size: larger;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            }
